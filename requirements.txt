@@ -1,0 +1,8 @@
+streamlit 
+opencv-python 
+pyzbar 
+qrcode[pil]
+python-barcode 
+reportlab 
+pillow 
+numpy 
